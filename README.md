@@ -4,10 +4,6 @@
 
 This is a demonstration code example in React.
 
-## Live preview
-
-You can preview this template on CodeSandbox  under the URL: https://githubbox.com/handsontable/handsontable/tree/master/next/docs/react/basic-example
-
 ## How to run this project
 
 ### Installation
